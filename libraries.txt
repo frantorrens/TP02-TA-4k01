@@ -1,0 +1,6 @@
+# Librerías necesarias para Wokwi Simulator
+Adafruit SSD1306
+Adafruit GFX Library
+DHT sensor library
+UniversalTelegramBot
+ArduinoJson
